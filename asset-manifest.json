@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/gscope-react/static/css/main.6ab3a81c.chunk.css",
+    "main.js": "/gscope-react/static/js/main.6752518a.chunk.js",
+    "main.js.map": "/gscope-react/static/js/main.6752518a.chunk.js.map",
+    "runtime-main.js": "/gscope-react/static/js/runtime-main.3355ee0c.js",
+    "runtime-main.js.map": "/gscope-react/static/js/runtime-main.3355ee0c.js.map",
+    "static/js/2.8f14b7e1.chunk.js": "/gscope-react/static/js/2.8f14b7e1.chunk.js",
+    "static/js/2.8f14b7e1.chunk.js.map": "/gscope-react/static/js/2.8f14b7e1.chunk.js.map",
+    "static/js/3.26b42b0f.chunk.js": "/gscope-react/static/js/3.26b42b0f.chunk.js",
+    "static/js/3.26b42b0f.chunk.js.map": "/gscope-react/static/js/3.26b42b0f.chunk.js.map",
+    "index.html": "/gscope-react/index.html",
+    "static/css/main.6ab3a81c.chunk.css.map": "/gscope-react/static/css/main.6ab3a81c.chunk.css.map",
+    "static/js/2.8f14b7e1.chunk.js.LICENSE.txt": "/gscope-react/static/js/2.8f14b7e1.chunk.js.LICENSE.txt",
+    "static/media/logo.608c1bb3.svg": "/gscope-react/static/media/logo.608c1bb3.svg",
+    "static/media/salvar.43cba929.svg": "/gscope-react/static/media/salvar.43cba929.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3355ee0c.js",
+    "static/js/2.8f14b7e1.chunk.js",
+    "static/css/main.6ab3a81c.chunk.css",
+    "static/js/main.6752518a.chunk.js"
+  ]
+}
