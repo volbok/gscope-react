@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/gscope-react/static/css/main.6ab3a81c.chunk.css",
-    "main.js": "/gscope-react/static/js/main.69aced13.chunk.js",
-    "main.js.map": "/gscope-react/static/js/main.69aced13.chunk.js.map",
+    "main.css": "/gscope-react/static/css/main.034cc205.chunk.css",
+    "main.js": "/gscope-react/static/js/main.606b6be3.chunk.js",
+    "main.js.map": "/gscope-react/static/js/main.606b6be3.chunk.js.map",
     "runtime-main.js": "/gscope-react/static/js/runtime-main.3355ee0c.js",
     "runtime-main.js.map": "/gscope-react/static/js/runtime-main.3355ee0c.js.map",
     "static/js/2.7ffe3470.chunk.js": "/gscope-react/static/js/2.7ffe3470.chunk.js",
@@ -10,18 +10,19 @@
     "static/js/3.26b42b0f.chunk.js": "/gscope-react/static/js/3.26b42b0f.chunk.js",
     "static/js/3.26b42b0f.chunk.js.map": "/gscope-react/static/js/3.26b42b0f.chunk.js.map",
     "index.html": "/gscope-react/index.html",
-    "static/css/main.6ab3a81c.chunk.css.map": "/gscope-react/static/css/main.6ab3a81c.chunk.css.map",
+    "static/css/main.034cc205.chunk.css.map": "/gscope-react/static/css/main.034cc205.chunk.css.map",
     "static/js/2.7ffe3470.chunk.js.LICENSE.txt": "/gscope-react/static/js/2.7ffe3470.chunk.js.LICENSE.txt",
     "static/media/alerta.7d0efb68.svg": "/gscope-react/static/media/alerta.7d0efb68.svg",
     "static/media/deletar.636e1409.svg": "/gscope-react/static/media/deletar.636e1409.svg",
     "static/media/lock.e94b33e0.svg": "/gscope-react/static/media/lock.e94b33e0.svg",
     "static/media/logo.608c1bb3.svg": "/gscope-react/static/media/logo.608c1bb3.svg",
+    "static/media/menu.b8a2d988.svg": "/gscope-react/static/media/menu.b8a2d988.svg",
     "static/media/salvar.43cba929.svg": "/gscope-react/static/media/salvar.43cba929.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.3355ee0c.js",
     "static/js/2.7ffe3470.chunk.js",
-    "static/css/main.6ab3a81c.chunk.css",
-    "static/js/main.69aced13.chunk.js"
+    "static/css/main.034cc205.chunk.css",
+    "static/js/main.606b6be3.chunk.js"
   ]
 }
